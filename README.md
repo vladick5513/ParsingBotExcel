@@ -23,6 +23,10 @@ pip install -r requirements.txt
 ```bash
 docker-compose up -d
 ```
+5. Запустите бота:
+```bash
+python -m app.main
+```
 ## Использование
 1. Найдите своего бота в Telegram по его имени.
 2. Отправьте команду /start для начала работы с ботом.
